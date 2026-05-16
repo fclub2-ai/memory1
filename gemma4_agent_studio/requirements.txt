@@ -1,0 +1,9 @@
+streamlit
+ollama
+requests
+python-dotenv
+beautifulsoup4
+markdown
+google-auth
+google-auth-oauthlib
+google-api-python-client

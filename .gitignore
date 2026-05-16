@@ -1,0 +1,9 @@
+﻿dist/
+build/
+*.exe
+*.pyz
+*.pkg
+__pycache__/
+.env
+*.env
+service_account_key.json

@@ -1,0 +1,3 @@
+530: 링크 텍스트는 기관명으로 작성하고, 반드시 깔끔한 HTML <a> 태그 형태로 삽입하세요. (예: <a href="https://www.fss.or.kr" rel="noopener noreferrer" target="_blank">금융감독원</a>) 주소(URL) 텍스트가 괄호와 함께 화면에 그대로 노출되지 않도록 강력히 주의하세요. 내부 링크는 삽입하지 마세요.
+755: f'<a href="{wp_url}" target="_blank" style="display: inline-block; background-color: #16a34a; color: #ffffff; font-size: 1.2em; font-weight: bold; text-decoration: none; padding: 15px 30px; border-radius: 50px; box-shadow: 0 4px 6px rgba(22, 163, 74, 0.3);">'
+1015: for t in re.findall(r"""<a\s+[^>]*href=["']#["'][^>]*>(.*?)</a>""", body, re.I)
